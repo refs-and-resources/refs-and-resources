@@ -1,4 +1,4 @@
-# refs-and-resources 📚
+# refs-and-resources 📖
 
 Org for machine learning resources so I don't have to keep them all under my account
 
